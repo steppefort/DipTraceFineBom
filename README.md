@@ -2,6 +2,12 @@
 
 English · [Українська](README_UA.md)
 
+
+<img width="944" height="301" alt="image" src="https://github.com/user-attachments/assets/daffffdf-24a7-416d-b5c7-aabfb7a6fc73" />
+
+<img width="936" height="453" alt="image" src="https://github.com/user-attachments/assets/0a1b82ad-2688-4155-9324-73d523f13355" />
+
+
 **Generate a formatted OpenDocument bill of materials from a DipTrace schematic.** FineBOM fills an `.ots` spreadsheet template with component fields and project variables, groups components by Value, and saves an `.ods` file in the project's `Docs` folder.
 
 The default [`templates/BOM.ots`](templates/BOM.ots) is included. You can edit it in LibreOffice Calc to match your documentation style.
