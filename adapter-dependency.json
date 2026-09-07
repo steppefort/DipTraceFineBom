@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/steppefort/DipTraceSchPluginAdapter.git",
+  "commit": "02685a4e96f258a22215e9a8e40f0c73827acfdc",
+  "api_version": 1,
+  "exe_sha256": "215ca6e1e6dffc128307366754ce78319a27fe30578d783c039e493801225bf3",
+  "version": "0.1.1",
+  "tag": "v0.1.1"
+}
